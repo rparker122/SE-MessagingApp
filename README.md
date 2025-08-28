@@ -2,7 +2,6 @@
 
 
 
-````markdown
 # 💬 MessagingApp – Demo Chat with Bots
 
 **MessagingApp** is a simple React-based messaging demo that simulates real-time chat. It includes interactive bot replies that respond automatically, making it feel like a live messaging experience — perfect for UI/UX prototyping or concept testing.
@@ -76,5 +75,6 @@ This project is licensed under the [MIT License](LICENSE)
 ## 👤 Author
 
 Created by [Robert Parker](https://github.com/rparker122)
+
 
 
